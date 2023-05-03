@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal Mediocrity</title>
+    <link>http://terminal-mediocrity.org/</link>
+    <description>Recent content on Terminal Mediocrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://terminal-mediocrity.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>http://terminal-mediocrity.org/posts/intro-post/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://terminal-mediocrity.org/posts/intro-post/</guid>
+      <description>Who I am
+In relation to the title of this blog, I believe I am someone who is often attempting to escape terminal mediocrity. I believe that we all experience growth at different rates, but we eventually hit a state of terminal mediocrity where it feels that the acceleration of growth has stagnated, and we reach a state where we struggle to escape a mundane cycle of being that often times feels suffocating.</description>
+    </item>
+    
+  </channel>
+</rss>
